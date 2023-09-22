@@ -1,6 +1,6 @@
 import videoBg from "../assests/4K_trees.mp4"
 
-function Main() {
+function BGVideo() {
   return (
     <div className="main">
       <div className="overlay">
@@ -14,4 +14,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default BGVideo;

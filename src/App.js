@@ -1,10 +1,12 @@
 import './App.css';
-import Main from "./components/Main"
+import BGVideo from "./components/BGVideo"
+import VideoPlayer from './components/VideoPlayer';
 
 function App() {
   return (
     <div className="App">
-      <Main />
+      {/*<BGVideo />*/}
+      <VideoPlayer />
     </div>
   );
 }
