@@ -5,7 +5,7 @@ import VideoPlayer from './components/VideoPlayer';
 function App() {
   return (
     <div className="App">
-      {/*<BGVideo />*/}
+      <BGVideo />
       <VideoPlayer />
     </div>
   );
