@@ -6,10 +6,11 @@ import ThreeSixtyView from './components/ThreeSixtyView';
 function App() {
   return (
     <div className="App" >
-      {/*
+      
       <BGVideo />
+      
       <VideoPlayer />
-      */}
+      
       <ThreeSixtyView />
     </div>
   );
