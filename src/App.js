@@ -5,7 +5,7 @@ import ThreeSixtyView from './components/ThreeSixtyView';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       {/*
       <BGVideo />
       <VideoPlayer />

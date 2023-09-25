@@ -27,6 +27,22 @@ video {
   color: aliceblue;
 }
 
+.threesixty {
+  position: absolute;
+  width: 90%;
+  height: 90%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: cadetblue;
+  background-color: aquamarine;
+  padding: 1%;
+  margin: 1%;
+  border-radius: 4px;
+}
+
 .overlay {
   position: absolute;
   top: 0;
